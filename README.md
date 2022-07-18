@@ -26,6 +26,6 @@ toplam işlem sayısına bakacak olursak;
 (n)+(n-1)+(n-2)+1=(n^2+n)/2 olur, burada en yüksek dereceliyi alacağımız için time complexity= O(n^2) olur
 # 18 sayısı hangi case kapsamına girer?
 Time Complexity dizi sıralanmasından sonra 18 sayısı ortada olduğundan dolayı "Average Case" kapsamına girer.
-
+https://app.patika.dev/gulayy
 
 
